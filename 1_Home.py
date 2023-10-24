@@ -194,7 +194,7 @@ with st.container():
         st.markdown(""" <a href={}> <em>🔗 access to the link </a>""".format(info['NLP Project']), unsafe_allow_html=True)
 
 # -----------------  contact  ----------------- #
-    with col2:
+    with col1:
         st.subheader("📨 Contact Me")
         contact_form = f"""
         <form action="https://formsubmit.co/{info["Email"]}" method="POST">
