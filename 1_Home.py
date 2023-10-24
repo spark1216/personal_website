@@ -78,20 +78,6 @@ with st.container():
     with col3:
         st_lottie(js_lottie,height=50,width=50, key="js", speed=2.5)
 
-    
-    
-# ----------------- timeline ----------------- #
-with st.container():
-    st.markdown("""""")
-    st.subheader('📌 Career Snapshot')
-
-    # load data
-    with open('example.json', "r") as f:
-        data = f.read()
-
-    # render timeline
-    timeline(data, height=400)
-
 # -----------------  tableau  -----------------  #
 with st.container():
     st.markdown("""""")
@@ -118,10 +104,7 @@ with st.container():
     st.markdown("""""")
     st.subheader('✍️ Regression Project')
     col1,col2 = st.columns([0.95, 0.05])
-    with col1:
-        with st.expander('See the work'):
-            components.html(embed_rss['rss'],height=400)
-            
+    with col1:            
         st.markdown(""" <a href={}> <em>🔗 access to the link </a>""".format(info['Regression Project']), unsafe_allow_html=True)
 # ----------------- Deep Learning Project----------------- #
 with st.container():
