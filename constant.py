@@ -10,7 +10,7 @@ info = {
    "NLP Project": "Placeholder",
    "City":"Los Angeles, California",
    "Photo": """<a href="https://www.linkedin.com/in/sonia-park-hi/">
-              <img src="https://drive.google.com/file/d/1uGQIpstWmkvEBCt5lVCmU0VJkerWhCnJ/view?usp=sharing" width="200" alt="Profile" title="Profile">
+              <img src="https://drive.google.com/uc?export=view&id=1uGQIpstWmkvEBCt5lVCmU0VJkerWhCnJ" width="200" alt="Profile" title="Profile">
           </a>""",
    "Email": "spark400@usc.edu"
 }
