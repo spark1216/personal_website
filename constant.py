@@ -15,7 +15,7 @@ info = {
 
 embed_rss= {
     'rss':"""<div style="overflow-y: scroll; height:500px; background-color:white;"> <div id="retainable-rss-embed" 
-        data-rss="https://medium.com/feed/@vicky-note"
+        data-rss=https://real-estate-price-projection-soniapark.streamlit.app/
         data-maxcols="3" 
         data-layout="grid"
         data-poststyle="inline" 
