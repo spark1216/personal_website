@@ -10,6 +10,7 @@ import openai
 from langchain.chat_models import ChatOpenAI
 
 st.set_page_config(page_title='Template' ,layout="wide",page_icon='👧🏻')
+img4 = Image.open("images/IMG_4428.png")
 
 # -----------------  loading assets  ----------------- #
 st.sidebar.markdown(info['Photo'],unsafe_allow_html=True)
@@ -53,6 +54,7 @@ with col1:
     gradient('#FFD4DD','#000395','e0fbfc',f"Hi, I'm {full_name}👋", info["Intro"])
     st.write("")
     st.write(info['About'])
+    st.image(img_4)
     
     
 with col2:
