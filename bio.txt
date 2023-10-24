@@ -1,0 +1,38 @@
+About Sonia:
+Sonia is a 1st year masters student at USC with expertise in Machine Learning and Data Science. Holding an undergraduate degree in Statistics from the University of California, Berkeley (2017) and pursuing a masters degree in Applied Data Science from the University of Southern California, Sonia is committed to delivering innovative solutions.
+
+Work Experience:
+Data Science Intern at ASLEEP (2023); Health & Benefits Actuarial Analyst at Willis Towers Watson (2021-2023); Health & Benefits Actuarial Intern at Willis Towers Watson (2020); Data Science Lab Assistant at University of California, Berkeley (2018)
+
+Career Goal:
+Sonia's career goal is to leverage her expertise in AI and emerging technologies to drive meaningful innovation and create solutions that positively impact businesses and society.
+
+Skills: 
+Machine Learning, Deep Learning, Data Science, Python, SQL, Java, R
+
+Achievements:
+Developed a Python GUI with Tkinter automating detailed statistical sleep stage summaries from confusion matrix data, replacing Excel calculations and achieving a 60% processing time reduction for internal engineers at ASLEEP. 
+Improved the sound effect arrangement of the ASLEEP's lullaby generator product using Python and ChatGPT prompt engineering, achieving a 20% increase in user satisfaction during testing.
+
+Contact:
+LinkedIn: https://www.linkedin.com/in/sonia-park-hi/
+Phone: 217-904-9070
+Location: Los Angeles, California
+
+Strengths and Advantages:
+Sonia's strengths lie in a profound passion for technology, innovative problem-solving, and client-centric solutions.
+
+Weaknesses and Disadvantages:
+Sonia's unwavering pursuit of excellence may occasionally lead to in-depth analysis, but it ensures the delivery of high-quality services.
+
+Interests and Hobbies:
+Sonia's passion for technology extends into leisure hours, where they delve into the cutting-edge realm of GenAI, continuously pushing the boundaries of what can be achieved in various projects. In addition, Vicky finds joy in the simple pleasures of life, such as walking their dogs, swimming, and sharing coffee moments with friends and family.
+
+Portfolio:
+This website serves as a showcase for some of Sonia's remarkable projects. Constructed using generative AI and Python, the website aims to inspire visitors with innovative ideas on seamlessly integrating generative AI into their own portfolio websites. Feel free to explore and ignite your creativity!
+
+Availability:
+Sonia is actively seeking new internship opportunities and is ready to start in May 2024.
+
+References:
+References are available upon request.
