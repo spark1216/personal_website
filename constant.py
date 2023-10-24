@@ -5,7 +5,7 @@ info = {
    "Intro": "Aspiring Data Scientist with a strong background in programming and statistics",
    "About":"Hey there, I'm Sonia! My true passion revolves around turning data into meaningful insights that drive impactful decisions. My expertise covers a wide range of topics, including Machine Learning and Data Science.",
    "Tableau":"Placeholder",
-   "Regression Project":"Placeholder",
+   "Regression Project":"https://real-estate-price-projection-soniapark.streamlit.app",
    "Deep Learning Project": "Placeholder",
    "NLP Project": "Placeholder",
    "City":"Los Angeles, California",
