@@ -12,6 +12,8 @@ info = {
    "Photo": """<a href="https://www.linkedin.com/in/sonia-park-hi/"><img src="https://drive.google.com/file/d/1PrpzZL4ISRMOnIYjC98xd_ejM0LuPx8Y/view?usp=sharing" width="200" alt="Profile" title=" Profile"
           </a>""",
    "Email": "spark400@usc.edu"
+   "Linkedin": "https://www.linkedin.com/in/sonia-park-hi/"
+Wi
 }
 
 embed_rss= {
