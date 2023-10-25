@@ -6,7 +6,7 @@ info = {
    "About":"Hey there, I'm Sonia! My true passion revolves around turning data into meaningful insights that drive impactful decisions. My expertise covers a wide range of topics, including Machine Learning and Data Science.",
    "Tableau":"https://public.tableau.com/app/profile/sonia.park5428/viz/Sonia_Park_Airbnb_Tableau_Dashboard/FinalDashboard",
    "Regression Project":"https://real-estate-price-projection-soniapark.streamlit.app",
-   "Deep Learning Project": "Placeholder",
+   "Time Series Project": "https://drive.google.com/file/d/1dlDBXwfc_mP3fCE-Rb1ms3tG54xzQQh0/view?usp=sharing",
    "NLP Project": "Placeholder",
    "City":"Los Angeles, California",
    "Email": "spark400@usc.edu",
