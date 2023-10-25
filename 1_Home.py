@@ -106,7 +106,7 @@ with st.container():
 # ----------------- Natural Language Processing Project----------------- #
 with st.container():
     st.markdown("""""")
-    st.subheader('✍️ 2023 eBay NLP Machine Learning Competition Project: In Progress')
+    st.subheader('✍️ NLP Project: 2023 eBay NLP Machine Learning Competition- In Progress')
     col1,col2 = st.columns([0.95, 0.05])
     #with col1:
         #with st.expander('See the work'):
