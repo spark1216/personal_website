@@ -7,6 +7,7 @@ info = {
    "Tableau":"https://public.tableau.com/app/profile/sonia.park5428/viz/Sonia_Park_Airbnb_Tableau_Dashboard/FinalDashboard",
    "Regression Project":"https://real-estate-price-projection-soniapark.streamlit.app",
    "Time Series Project": "https://drive.google.com/file/d/1dlDBXwfc_mP3fCE-Rb1ms3tG54xzQQh0/view?usp=sharing",
+   "Experimental Design Project": "https://drive.google.com/file/d/1wTILf6qVTGqHR60RXAlhm9_Qtr7XNoBR/view?usp=sharing",
    "NLP Project": "Placeholder",
    "City":"Los Angeles, California",
    "Email": "spark400@usc.edu",
