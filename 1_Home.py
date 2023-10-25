@@ -81,7 +81,7 @@ with st.container():
 # -----------------  tableau  -----------------  #
 with st.container():
     st.markdown("""""")
-    st.subheader("📊 Tableau")
+    st.subheader("📊 Tableau Project: Airbnb Interactive Dashboard")
     col1,col2 = st.columns([0.95, 0.05])
     with col1:
         st.markdown(""" <a href={}> <em>🔗 access to the link </a>""".format(info['Tableau']), unsafe_allow_html=True)
@@ -89,14 +89,14 @@ with st.container():
 # ----------------- Regression Project ----------------- #
 with st.container():
     st.markdown("""""")
-    st.subheader('✍️ Regression Project')
+    st.subheader('✍️ Regression Project: US Northeast Real Estate Price Prediction')
     col1,col2 = st.columns([0.95, 0.05])
     with col1:            
         st.markdown(""" <a href={}> <em>🔗 access to the link </a>""".format(info['Regression Project']), unsafe_allow_html=True)
 # ----------------- Deep Learning Project----------------- #
 with st.container():
     st.markdown("""""")
-    st.subheader('✍️ Deep Learning Project')
+    st.subheader('✍️ Deep Learning Project: Potato Disease Classification using CNN')
     col1,col2 = st.columns([0.95, 0.05])
     with col1:
         with st.expander('See the work'):
@@ -106,13 +106,13 @@ with st.container():
 # ----------------- Natural Language Processing Project----------------- #
 with st.container():
     st.markdown("""""")
-    st.subheader('✍️ NLP Project')
+    st.subheader('✍️ 2023 eBay NLP Machine Learning Competition Project: In Progress')
     col1,col2 = st.columns([0.95, 0.05])
-    with col1:
-        with st.expander('See the work'):
-            components.html(embed_rss['rss'],height=400)
+    #with col1:
+        #with st.expander('See the work'):
+         #   components.html(embed_rss['rss'],height=400)
             
-        st.markdown(""" <a href={}> <em>🔗 access to the link </a>""".format(info['NLP Project']), unsafe_allow_html=True)
+        #Update after it has been finished: st.markdown(""" <a href={}> <em>🔗 access to the link </a>""".format(info['NLP Project']), unsafe_allow_html=True)
 
 # -----------------  contact  ----------------- #
     with col1:
