@@ -13,7 +13,6 @@ info = {
           </a>""",
    "Email": "spark400@usc.edu"
    "Linkedin": "https://www.linkedin.com/in/sonia-park-hi/"
-Wi
 }
 
 embed_rss= {
