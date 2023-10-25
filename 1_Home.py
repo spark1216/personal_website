@@ -108,8 +108,8 @@ with st.container():
     st.markdown("""""")
     st.subheader('✍️ Experimental Design Project: How do song pitch, song tempo, and color of album influence the perception of the listeners?')
     col1,col2 = st.columns([0.95, 0.05])
-    with col1:           
-        st.markdown(""" <a href={}> <em>🔗 access to the link </a>""".format('https://drive.google.com/file/d/1wTILf6qVTGqHR60RXAlhm9_Qtr7XNoBR/view?usp=sharing'), unsafe_allow_html=True)
+    with col1:
+        st.markdown('<a href="https://drive.google.com/file/d/1wTILf6qVTGqHR60RXAlhm9_Qtr7XNoBR/view?usp=sharing" target="_blank"><em>🔗 Access to the link</em></a>', unsafe_allow_html=True)
 
 # ----------------- Natural Language Processing Project----------------- #
 with st.container():
