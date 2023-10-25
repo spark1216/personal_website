@@ -12,7 +12,8 @@ from langchain.chat_models import ChatOpenAI
 st.set_page_config(page_title='Template' ,layout="wide",page_icon='👧🏻')
 
 # -----------------  loading assets  ----------------- #
-st.sidebar.markdown(info['Photo'],unsafe_allow_html=True)
+image_url = info["Photo"]
+st.sidebar.image(image_url, width=200, use_column_width=False)
     
 def load_lottieurl(url: str):
     r = requests.get(url)
