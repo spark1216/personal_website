@@ -12,8 +12,7 @@ from langchain.chat_models import ChatOpenAI
 st.set_page_config(page_title='Template' ,layout="wide",page_icon='👧🏻')
 
 # -----------------  loading assets  ----------------- #
-image_url = "https://imgur.com/a/yGLUazs"
-st.sidebar.image(image_url, width=200, use_column_width=False)
+
     
 def load_lottieurl(url: str):
     r = requests.get(url)
@@ -55,7 +54,8 @@ with col1:
     st.write("")
     st.write(info['About'])
     st.write(f'<a href="{info["LinkedIn"]}">Connect with me on LinkedIn!</a>', unsafe_allow_html=True)
-    
+    image_url = "https://imgur.com/a/yGLUazs"
+    st.image(image_url,  width=400)
     
 with col2:
     st_lottie(lottie_gif, height=280, key="data")
