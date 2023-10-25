@@ -8,7 +8,6 @@ def local_css(file_name):
         
 local_css("style/style.css")
 
-st.sidebar.markdown(info['Photo'],unsafe_allow_html=True)
 
 img_1 = Image.open("images/1.jpg")
 img_2 = Image.open("images/2.png")
