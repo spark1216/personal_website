@@ -4,7 +4,7 @@ info = {
    "Full_Name": "Sonia Park",
    "Intro": "Aspiring Data Scientist with a strong background in programming and statistics",
    "About":"Hey there, I'm Sonia! My true passion revolves around turning data into meaningful insights that drive impactful decisions. My expertise covers a wide range of topics, including Machine Learning and Data Science.",
-   "Tableau":"Placeholder",
+   "Tableau":"https://public.tableau.com/app/profile/sonia.park5428/viz/Sonia_Park_Airbnb_Tableau_Dashboard/FinalDashboard",
    "Regression Project":"https://real-estate-price-projection-soniapark.streamlit.app",
    "Deep Learning Project": "Placeholder",
    "NLP Project": "Placeholder",
