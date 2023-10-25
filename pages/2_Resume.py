@@ -11,7 +11,7 @@ local_css("style/style.css")
 
 st.title("📝 Resume")
 
-st.write("[Click here!](https://drive.google.com/file/d/14Nv3thLxYOmHb4VbqkyOmhH4xPosD0zV/view?usp=drive_link)")
+st.write("[Click here!](https://drive.google.com/file/d/1gNkwG3nhLlo8DolChcCP0zRWrn2XqJEs/view?usp=sharing)")
 
 
   
