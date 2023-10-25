@@ -55,7 +55,7 @@ with col1:
     st.write(info['About'])
     st.write(f'<a href="{info["LinkedIn"]}">Connect with me on LinkedIn!</a>', unsafe_allow_html=True)
     img_4 = Image.open("images/IMG_4428.png")
-    st.image(img_4,height=400,width=400)
+    st.image(img_4,width=400)
     
 with col2:
     st_lottie(lottie_gif, height=280, key="data")
