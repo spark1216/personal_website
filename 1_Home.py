@@ -12,7 +12,7 @@ from langchain.chat_models import ChatOpenAI
 st.set_page_config(page_title='Template' ,layout="wide",page_icon='👧🏻')
 
 # -----------------  loading assets  ----------------- #
-image_url = "https://drive.google.com/file/d/1PrpzZL4ISRMOnIYjC98xd_ejM0LuPx8Y/view?usp=sharing"
+image_url = "https://imgur.com/a/yGLUazs"
 st.sidebar.image(image_url, width=200, use_column_width=False)
     
 def load_lottieurl(url: str):
