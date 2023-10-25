@@ -83,7 +83,7 @@ with st.container():
 # -----------------  tableau  -----------------  #
 with st.container():
     st.markdown("""""")
-    st.subheader("📊 Tableau Project: Airbnb Interactive Dashboard")
+    st.subheader("📊 Airbnb Interactive Tableau Dashboard Project")
     col1,col2 = st.columns([0.95, 0.05])
     with col1:
         st.markdown(""" <a href={}> <em>🔗 access to the link </a>""".format(info['Tableau']), unsafe_allow_html=True)
@@ -91,14 +91,14 @@ with st.container():
 # ----------------- Regression Project ----------------- #
 with st.container():
     st.markdown("""""")
-    st.subheader('✍️ Regression Project: US Northeast Real Estate Price Prediction')
+    st.subheader('✍️ US Northeast Real Estate Price Prediction Project')
     col1,col2 = st.columns([0.95, 0.05])
     with col1:            
         st.markdown(""" <a href={}> <em>🔗 access to the link </a>""".format(info['Regression Project']), unsafe_allow_html=True)
 # ----------------- Time Series Project----------------- #
 with st.container():
     st.markdown("""""")
-    st.subheader('✍️ Regression Project: Sales Prediction Project using Time Series')
+    st.subheader('✍️ Sales Prediction Project using Time Series Analysis')
     col1,col2 = st.columns([0.95, 0.05])
     with col1:           
         st.markdown('<a href="https://drive.google.com/file/d/1dlDBXwfc_mP3fCE-Rb1ms3tG54xzQQh0/view?usp=sharing" target="_blank"><em>🔗 Access to the link</em></a>', unsafe_allow_html=True)
