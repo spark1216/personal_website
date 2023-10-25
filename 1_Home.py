@@ -95,16 +95,13 @@ with st.container():
     col1,col2 = st.columns([0.95, 0.05])
     with col1:            
         st.markdown(""" <a href={}> <em>🔗 access to the link </a>""".format(info['Regression Project']), unsafe_allow_html=True)
-# ----------------- Deep Learning Project----------------- #
+# ----------------- Time Series Project----------------- #
 with st.container():
     st.markdown("""""")
-    st.subheader('✍️ Deep Learning Project: Potato Disease Classification using CNN')
+    st.subheader('✍️ Regression Project: Sales Prediction Project using Time Series')
     col1,col2 = st.columns([0.95, 0.05])
-    with col1:
-        with st.expander('See the work'):
-            components.html(embed_rss['rss'],height=400)
-            
-        st.markdown(""" <a href={}> <em>🔗 access to the link </a>""".format(info['Deep Learning Project']), unsafe_allow_html=True)
+    with col1:           
+        st.markdown(""" <a href={}> <em>🔗 access to the link </a>""".format(info['Time Series Project']), unsafe_allow_html=True)
 # ----------------- Natural Language Processing Project----------------- #
 with st.container():
     st.markdown("""""")
