@@ -102,6 +102,16 @@ with st.container():
     col1,col2 = st.columns([0.95, 0.05])
     with col1:           
         st.markdown(""" <a href={}> <em>🔗 access to the link </a>""".format(info['Time Series Project']), unsafe_allow_html=True)
+
+# ----------------- Experimental Design Project----------------- #
+with st.container():
+    st.markdown("""""")
+    st.subheader('✍️ Experimental Design Project: How do song pitch, song tempo, and color of
+album influence the perception of the listeners?')
+    col1,col2 = st.columns([0.95, 0.05])
+    with col1:           
+        st.markdown(""" <a href={}> <em>🔗 access to the link </a>""".format(info['Experimental Design Project']), unsafe_allow_html=True)
+
 # ----------------- Natural Language Processing Project----------------- #
 with st.container():
     st.markdown("""""")
