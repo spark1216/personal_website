@@ -9,7 +9,7 @@ info = {
    "Deep Learning Project": "Placeholder",
    "NLP Project": "Placeholder",
    "City":"Los Angeles, California",
-   "Photo": """<a href="https://www.linkedin.com/in/sonia-park-hi/"><img src="https://drive.google.com/file/d/1PrpzZL4ISRMOnIYjC98xd_ejM0LuPx8Y/view?usp=sharing" width="200" alt="Profile" title="Linkedin Profile<span style='color:white'>white</span>>"
+   "Photo": """<a href="https://www.linkedin.com/in/sonia-park-hi/"><img src="https://drive.google.com/file/d/1PrpzZL4ISRMOnIYjC98xd_ejM0LuPx8Y/view?usp=sharing" width="200" alt="Profile" title=" Profile"
           </a>""",
    "Email": "spark400@usc.edu"
 }
