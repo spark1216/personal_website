@@ -54,6 +54,7 @@ with col1:
     gradient('#FFD4DD','#000395','e0fbfc',f"Hi, I'm {full_name}👋", info["Intro"])
     st.write("")
     st.write(info['About'])
+    st.write(f'<a href="{info["LinkedIn"]}">Connect with me on LinkedIn!</a>', unsafe_allow_html=True)
     
     
 with col2:
