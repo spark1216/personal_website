@@ -54,7 +54,7 @@ with col1:
     st.write("")
     st.write(info['About'])
     st.write(f'<a href="{info["LinkedIn"]}">Connect with me on LinkedIn!</a>', unsafe_allow_html=True)
-    img_4 = Image.open("IMG_4428.png")
+    img_4 = Image.open("images/IMG_4428.png")
     st.image(img_4)
     
 with col2:
