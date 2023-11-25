@@ -7,7 +7,6 @@ from llama_index import GPTVectorStoreIndex, SimpleDirectoryReader, LLMPredictor
 from constant import *
 from PIL import Image
 import openai
-from langchain.chat_models import ChatOpenAI
 
 st.set_page_config(page_title='Template' ,layout="wide",page_icon='👧🏻')
 
